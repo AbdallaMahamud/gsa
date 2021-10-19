@@ -1,0 +1,16 @@
+{
+    "Ahmed": {
+        "password": "123456",
+        "projects": [{"name": "This Year", "id": "54433"}, {"name": "Next Year", "id": "45555"}],
+        "data": {
+            "goals": [{"project": "54433", "goal": "Finish this app", "description": "Finishing this app means complete it and upload to Heroku", "start": "August 21 2021", "deadline": "September 22 2021", "status": "onGoing", "completd": false, "tasks": [{"task_id": "3222", "task": "Do this do that", "deadlinee": "August 30 2021"}]}]
+        }
+    },
+    "Hassan": {
+        "password": "123456",
+        "projects": [{"name": "This Year", "id": "54433"}, {"name": "Next Year", "id": "45555"}],
+        "data": {
+            "goals": [{"project": "54433", "goal": "Finish this app", "description": "Finishing this app means complete it and upload to Heroku", "start": "August 21 2021", "deadline": "September 22 2021", "status": "onGoing", "completd": false, "tasks": [{"task_id": "3222", "task": "Do this do that", "deadlinee": "August 30 2021"}]}]
+        }
+    }
+}
